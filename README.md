@@ -58,9 +58,9 @@ My focus is on bridging the gap between **IT Operations (SysAdmin)** and **Secur
 * **[Automated Alerting & Patching](https://github.com/your-username/linkTBD)**: Configured automated patch management (PatchMon amd WUD) and instant security notifications via **Discord Webhooks** and hosted SMTP relay. 
 
 ---
-
-## Professional Certifications & Education
-* *Cisco Certified Network Associate (July 2024) | CompTIA Security+ (Feb 2025) | TryHackMe SOC Level 1 (Aug 2024) | TryHackMe Jr Penetration Tester (Oct 2024) | TryHackMe SAL1 (in progress) | Fortinet Certified Fundamentals in Cybersecurity (Oct 2024).*
+>[!IMPORTANT]
+>## Professional Certifications & Education
+>* *Cisco Certified Network Associate (July 2024) | CompTIA Security+ (Feb 2025) | TryHackMe SOC Level 1 (Aug 2024) | TryHackMe Jr Penetration Tester (Oct 2024) | EC >Council CEH (in progress) | Fortinet Certified Fundamentals in Cybersecurity (Oct 2024).*
 
 ---
 ** How to reach me:** [https://www.linkedin.com/in/pnleone/] | [pnleone@outlok.com]
