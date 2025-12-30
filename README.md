@@ -9,10 +9,14 @@ My focus is on bridging the gap between **IT Operations (SysAdmin)** and **Secur
 
 ## Key Technical Competencies
 * **Security Operations:** SIEM/XDR (Wazuh, Splunk, ELK), Incident Response (theHive), SOAR (Shuffle, n8n).
-* **Infrastructure:** Proxmox (KVM/LXC), Docker/Kubernetes, pfSense/OPNsense, Cisco Networking.
-* **Security Engineering:** PKI (OpenSSL, StepCA), Secrets Management, WAF (SafeLine).
+* **Infrastructure:** Proxmox (KVM/LXC), Docker/Kubernetes, pfSense/OPNsense, Safeline WAF, Cisco Networking.
+* **Security Engineering:** PKI (OpenSSL, StepCA), Secrets Management, Identity and Access Management (Active Directory, Authentik)
 * **Compliance & Frameworks:** NIST CSF 2.0, ISO 27001, CIS Benchmarks, OWASP Top 10, MITRE ATT&CK.
 * **Automation/IaC:** Python, PowerShell, Bash, Ansible, Terraform, n8n.
+* **Threat Analysis and Hunting:**
+* **Alert Triage and Incident Response:**
+* **Digital Forensics:**
+* **Red Teaming/Penatration Testing:** footprinting (active/passive recon), scanning (Host, OS, service), 
 
 ---
 
