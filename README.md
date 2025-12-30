@@ -59,7 +59,7 @@ My focus is on bridging the gap between **IT Operations (SysAdmin)** and **Secur
 
 ---
 >[!IMPORTANT]
->  ## Professional Certifications & Education
+>  ### Professional Certifications & Education
 >* *Cisco Certified Network Associate (July 2024) | CompTIA Security+ (Feb 2025) | TryHackMe SOC Level 1 (Aug 2024) | TryHackMe Jr Penetration Tester (Oct 2024) | EC >Council CEH (in progress) | Fortinet Certified Fundamentals in Cybersecurity (Oct 2024).*
 
 ---
