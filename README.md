@@ -1,5 +1,13 @@
-# 🛡️ Cybersecurity & Systems Engineering Portfolio
-### Paul Leone | Aspiring Security Analyst & Infrastructure Engineer
+
+[![Docs](https://img.shields.io/badge/Doc%20Version-v1.0-blue.svg)](https://)
+![GitHub Release Date](https://img.shields.io/github/release-date/pnleone/Projects?display_date=created_at&color=red)
+![GitHub contributors](https://img.shields.io/github/contributors/pnleone/Projects?color=red)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/pnleone/Projects?color=red)
+
+
+
+# Cybersecurity & Systems Engineering Portfolio
+### **Paul Leone** | *Aspiring Security Analyst & Infrastructure Engineer*
 
 Welcome to my professional development repository. This space serves as a comprehensive showcase of my journey into the cybersecurity field, documenting the technical labs, security frameworks, and automation workflows I have built to defend modern infrastructure. 
 
@@ -58,10 +66,10 @@ My focus is on bridging the gap between **IT Operations (SysAdmin)** and **Secur
 * **[Automated Alerting & Patching](https://github.com/your-username/linkTBD)**: Configured automated patch management (PatchMon amd WUD) and instant security notifications via **Discord Webhooks** and hosted SMTP relay. 
 
 ---
+## Professional Certifications & Education
 >[!IMPORTANT]
->  ## Professional Certifications & Education
 >* *Cisco Certified Network Associate (July 2024) | CompTIA Security+ (Feb 2025) | TryHackMe SOC Level 1 (Aug 2024) | TryHackMe Jr Penetration Tester (Oct 2024) | EC >Council CEH (in progress) | Fortinet Certified Fundamentals in Cybersecurity (Oct 2024).*
-
+><img src="https://tryhackme-badges.s3.amazonaws.com/pnleone.png" alt="Your Image Badge" />
 ---
 >[!NOTE]
 >** How to reach me:** [https://www.linkedin.com/in/pnleone/] | [pnleone@outlok.com]
