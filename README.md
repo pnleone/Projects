@@ -3,6 +3,8 @@
 ![GitHub Release Date](https://img.shields.io/github/release-date/pnleone/Projects?display_date=created_at&color=red)
 ![GitHub contributors](https://img.shields.io/github/contributors/pnleone/Projects?color=red)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/pnleone/Projects?color=red)
+![GitHub last commit](https://img.shields.io/github/last-commit/pnleone/Projects?display_timestamp=author&color=red)
+
 
 
 
