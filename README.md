@@ -31,7 +31,7 @@ My focus is on bridging the gap between **IT Operations (SysAdmin)** and **Secur
 ## Career Growth Projects
 *High-level projects demonstrating business value and strategic security alignment.*
 
-* **[Business Intelligence & Data Analytics](https://github.com/users/pnleone/projects/2)**
+* **[Business Intelligence & Data Analytics](https://github.com/pnleone/Projects/blob/7d06b9f75a087852e398bde4a2ab797809fbcba0/Business%20Intelligence%20project%2001(Final).pdf)**
     * Engineered data pipelines using **Microsoft SQL Server** and **Excel Power Query** to transform raw data into actionable insights.
     * Developed automated reporting dashboards in **Power BI** utilizing **SQL** and Power Pivot for executive decision support.
 * **[Threat Intelligence Brief & SOC Improvement Plan](https://github.com/your-username/linkTBD)**
