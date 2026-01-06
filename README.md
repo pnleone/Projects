@@ -72,4 +72,4 @@ My focus is on bridging the gap between **IT Operations (SysAdmin)** and **Secur
 ><img src="https://tryhackme-badges.s3.amazonaws.com/pnleone.png" alt="Your Image Badge" />
 ---
 >[!NOTE]
->** How to reach me:** [https://www.linkedin.com/in/pnleone/] | [pnleone@outlok.com]
+>** How to reach me:** [https://www.linkedin.com/in/pnleone/] | [pnleone@outlook.com]
