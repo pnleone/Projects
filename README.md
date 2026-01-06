@@ -42,8 +42,8 @@ My focus is on bridging the gap between **IT Operations (SysAdmin)** and **Secur
 ---
 
 ## Security Homelab & Technical Labs
-*Deep-dive technical implementations of defensive and offensive security controls.*
-
+*Deep-dive technical implementations of defensive and offensive security controls.* <br>
+![Homelab Network Diagram](homelabnetworkextblue.png)
 ### Network Security & Perimeter Defense
 * **[Advanced Network Security Deployment](https://github.com/your-username/linkTBD)**: Configured **pfSense/OPNsense** firewalls with multi-zone segmentation (VLANs), granular ACLs, and encrypted tunnels (TLS/SSL, SSH).
 * **[IDS/IPS & WAF Implementation](https://github.com/your-username/linkTBD)**: Deployed **Suricata** and **Snort** for deep packet inspection and **SafeLine WAF** for application-layer protection.
