@@ -34,7 +34,7 @@ My focus is on bridging the gap between **IT Operations (SysAdmin)** and **Secur
 * **[Business Intelligence & Data Analytics](https://github.com/pnleone/Projects/blob/2609cdfdda6550f52d09b516700322a828f24c2e/Business%20Intelligence%20%26%20Data%20Analytics/Business%20Intelligence%20project%2001(Final).pdf)**
     * Engineered data pipelines using **Microsoft SQL Server** and **Excel Power Query** to transform raw data into actionable insights.
     * Developed automated reporting dashboards in **Power BI** utilizing **SQL** and Power Pivot for executive decision support.
-* **[Threat Intelligence Brief & SOC Improvement Plan](https://github.com/your-username/linkTBD)**
+* **[Threat Intelligence Brief & SOC Improvement Plan](https://github.com/pnleone/Projects/tree/fa75fdc700c1988b38e46eb365fb42a2df8a4b4d/Threat%20Intelligence%20Brief%20%26%20SOC%20Improvement%20Plan)**
     * Provided an enhanced threat intelligence brief of a known advisary including a breakdown of TTPs mapped to the **MITRE ATT&CK** framework. 
     * Authored a strategic improvement plan mapped to **NIST CSF 2.0** and **CIS Controls 8.1**.
     * Conducted OSINT-driven threat hunting to develop custom **YARA** and **Sigma** rules for proactive detection of threats associated with the advisary. 
