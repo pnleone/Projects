@@ -118,8 +118,13 @@ Every design decision in this lab is guided by three core security principles th
 ---
 ## Professional Certifications & Education
 >[!IMPORTANT]
->* *Cisco Certified Network Associate (July 2024) | CompTIA Security+ (Feb 2025) | TryHackMe SOC Level 1 (Aug 2024) | TryHackMe Jr Penetration Tester (Oct 2024) | EC >Council CEH (in progress) | Fortinet Certified Fundamentals in Cybersecurity (Oct 2024).*
+>*  Cisco Certified Network Associate (July 2024)
+>*  CompTIA Security+ (Feb 2025)
+>*  TryHackMe SOC Level 1 (Aug 2024)
+>*  TryHackMe Jr Penetration Tester (Oct 2024)
+>*  EC Council CEH (in progress)*
+>*  Fortinet Certified Fundamentals in Cybersecurity (Oct 2024).
 ><img src="https://tryhackme-badges.s3.amazonaws.com/pnleone.png" alt="Your Image Badge" />
 ---
->[!NOTE]
->** How to reach me:** [https://www.linkedin.com/in/pnleone/] | [pnleone@outlook.com]
+> [!NOTE]
+> **How to reach me:** [LinkedIn](https://www.linkedin.com/in/pnleone/) | [pnleone@outlook.com](mailto:pnleone@outlook.com)
