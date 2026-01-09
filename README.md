@@ -1,6 +1,5 @@
 
 [![Docs](https://img.shields.io/badge/Doc%20Version-v1.0-blue.svg)](https://)
-![GitHub Release Date](https://img.shields.io/github/release-date/pnleone/Projects?display_date=created_at&color=red)
 ![GitHub contributors](https://img.shields.io/github/contributors/pnleone/Projects?color=red)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/pnleone/Projects?color=red)
 ![GitHub last commit](https://img.shields.io/github/last-commit/pnleone/Projects?display_timestamp=author&color=red)
@@ -11,7 +10,7 @@
 
 Welcome to my professional development repository. This space serves as a comprehensive showcase of my journey into the cybersecurity field, documenting the technical labs, security frameworks, and automation workflows I have built to defend modern infrastructure. 
 
-My focus is on bridging the gap between **IT Operations (SysAdmin)** and **Security Operations (Blue Teaming)**. Through these projects, I demonstrate a commitment to continuous learning, a "security-by-design" mindset, and the technical proficiency required to mitigate risks in enterprise environments.
+My focus is on bridging the gap between **IT Operations (SysAdmin)** and **Security Operations (Blue Teaming)**. Through these projects, I demonstrate a commitment to continuous learning, a "secure-by-design" mindset, and the technical proficiency required to mitigate risks in enterprise environments.
 >[!IMPORTANT]
 >*  **[Current Resume](https://github.com/pnleone/Projects/blob/270d13c6e2570831a62d3ca6564111f6000050cd/Paul_Leone_Resume_2026-01-09.pdf)**
 ---
