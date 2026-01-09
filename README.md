@@ -44,40 +44,53 @@ My focus is on bridging the gap between **IT Operations (SysAdmin)** and **Secur
 
 ## Security Homelab & Technical Labs
 *Deep-dive technical implementations of defensive and offensive security controls.* <br>
-### Homelab Overview
-#### **Lab Mission Statement**  
-   This enterprise-grade security lab demonstrates production-ready capabilities across **Security Operations (SecOps)**, **Systems Engineering**, and **Network Defense**. Designed to simulate real-world enterprise environments, the lab serves as both a technical proving    ground and a continuous learning platform focused on:
--	Threat Detection & Response — Deploying SIEM/XDR platforms, orchestrating automated incident response, and implementing behavioral threat intelligence
--	Defense-in-Depth Architecture — Building multi-layered security controls spanning network perimeter, application layer, identity management, and endpoint protection
--	Enterprise Infrastructure Operations — Managing hybrid virtualization platforms, container orchestration, and high-availability services at scale
--  Security Engineering & Automation — Implementing Infrastructure as Code (IaC), SOAR workflows, and policy-driven security controls
 
-#### **Business Value Demonstrated:** This lab mirrors the security architecture, operational workflows, and technical complexity found in mid-to-large enterprise environments, providing hands-on experience directly transferable to SOC Analyst, Security Engineer, and Infrastructure Security roles.
+### Lab Mission Statement
 
-#### **Architecture Principals**
+This enterprise-grade security laboratory demonstrates production-ready capabilities across **Security Operations (SecOps)**, **Systems Engineering**, and **Network Defense**. Designed to simulate real-world enterprise environments, the lab serves as both a technical proving ground and a continuous learning platform focused on:
+
+- **Threat Detection & Response** — Deploying SIEM/XDR platforms, orchestrating automated incident response, and implementing behavioral threat intelligence
+- **Defense-in-Depth Architecture** — Building multi-layered security controls spanning network perimeter, application layer, identity management, and endpoint protection
+- **Enterprise Infrastructure Operations** — Managing hybrid virtualization platforms, container orchestration, and high-availability services at scale
+- **Security Engineering & Automation** — Implementing Infrastructure as Code (IaC), SOAR workflows, and policy-driven security controls
+
+**Business Value Demonstrated:** This lab mirrors the security architecture, operational workflows, and technical complexity found in mid-to-large enterprise environments, providing hands-on experience directly transferable to SOC Analyst, Security Engineer, and Infrastructure Security roles.
+
+---
+
+### Architecture Principles
+
 Every design decision in this lab is guided by three core security principles that align with industry frameworks (NIST CSF 2.0, CIS Controls v8, MITRE ATT&CK):
-1. **Defense in Depth**
-   Multiple independent security layers ensure that a single compromised control does not result in full system compromise. Network segmentation, application-layer filtering, endpoint monitoring, and identity verification create overlapping defensive barriers.
-   <br>**Technical Implementation:**
-   -	Network perimeter (firewall ACLs, IDS/IPS)
-   -  Application layer (WAF, reverse proxy authentication)
-   -	Endpoint security (EDR agents, vulnerability scanning)
-   -	Identity controls (MFA, RBAC, PKI)
-2. **Secure by Design**
-   Security controls are embedded into architecture from the ground up, not bolted on afterward. All services default to encrypted communications (TLS), authenticated access (SSO/MFA), and least-privilege authorization (RBAC).
-   <br>**Technical Implementation:**
-   -	Automated PKI with certificate lifecycle management
-   -	Mandatory authentication via Authentik SSO for web services
-   -	Encrypted DNS (DNSSEC)
-   -	Immutable infrastructure through IaC version control
-3. **Zero Trust Architecture**
-   No implicit trust is granted based on network location. Every request is authenticated, authorized, and encrypted regardless of origin. Micro-segmentation and identity-aware proxies ensure continuous verification.
-   <br>**Technical Implementation:**
-   -	ForwardAuth middleware validates identity at the edge
-   -	Network segmentation isolates trust zones
-   -	Certificate-based mutual TLS for service-to-service communication
-   -	Tailscale mesh VPN for authenticated peer-to-peer connectivity
 
+#### **1. Defense in Depth**
+Multiple independent security layers ensure that a single compromised control does not result in full system compromise. Network segmentation, application-layer filtering, endpoint monitoring, and identity verification create overlapping defensive barriers.
+
+**Technical Implementation:**
+- Network perimeter (firewall ACLs, IDS/IPS)
+- Application layer (WAF, reverse proxy authentication)
+- Endpoint security (EDR agents, vulnerability scanning)
+- Identity controls (MFA, RBAC, PKI)
+
+#### **2. Secure by Design**
+Security controls are embedded into architecture from the ground up, not bolted on afterward. All services default to encrypted communications (TLS), authenticated access (SSO/MFA), and least-privilege authorization (RBAC).
+
+**Technical Implementation:**
+- Automated PKI with certificate lifecycle management
+- Mandatory authentication via Authentik SSO for web services
+- Encrypted DNS (DNSSEC)
+- Immutable infrastructure through IaC version control
+
+#### **3. Zero Trust Architecture**
+No implicit trust is granted based on network location. Every request is authenticated, authorized, and encrypted regardless of origin. Micro-segmentation and identity-aware proxies ensure continuous verification.
+
+**Technical Implementation:**
+- ForwardAuth middleware validates identity at the edge
+- Network segmentation isolates trust zones
+- Certificate-based mutual TLS for service-to-service communication
+- Tailscale mesh VPN for authenticated peer-to-peer connectivity
+
+
+---
 #### **Key Capabilities Demonstrated** 
 
    Strategic Value
