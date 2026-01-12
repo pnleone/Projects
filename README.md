@@ -106,7 +106,7 @@ No implicit trust is granted based on network location. Every request is authent
    -	Forensic Readiness: Comprehensive logging, artifact preservation, and analysis tools (Volatility, KAPE, Velociraptor) support post-incident investigation
 
 
-![Homelab Network Diagram](https://github.com/pnleone/Projects/blob/926bf06614bb78806bd56e71f39b242293340ca7/Security%20Homelab/Homelab_network_20260108.jpg)
+![Homelab Network Diagram](https://github.com/pnleone/Projects/blob/a1c78eb8f9feef8ff0ed0181b97ada00e2fa0bb7/Security%20Homelab/Homelab_network_20260112.jpg)
 ### Network Security & Perimeter Defense
 * **[Advanced Network Security Deployment](https://github.com/your-username/linkTBD)**: Configured **pfSense/OPNsense** firewalls with multi-zone segmentation (VLANs), granular ACLs, and encrypted tunnels (TLS/SSL, SSH).
 * **[IDS/IPS & WAF Implementation](https://github.com/your-username/linkTBD)**: Deployed **Suricata** and **Snort** for deep packet inspection and **SafeLine WAF** for application-layer protection.
