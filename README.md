@@ -12,7 +12,7 @@ Welcome to my professional development repository. This space serves as a compre
 
 My focus is on bridging the gap between **IT Operations (SysAdmin)** and **Security Operations (Blue Teaming)**. Through these projects, I demonstrate a commitment to continuous learning, a "secure-by-design" mindset, and the technical proficiency required to mitigate risks in enterprise environments.
 >[!IMPORTANT]
->*  **[Current Resume](https://github.com/pnleone/Projects/blob/270d13c6e2570831a62d3ca6564111f6000050cd/Paul_Leone_Resume_2026-01-09.pdf)**
+>*  **[Current Resume](https://github.com/pnleone/Projects/blob/85cf623f199bd35d3c166d3cbe57ef690f6a290f/Paul_Leone_Resume_2026-01-16.pdf)** 
 ---
 ## Key Technical Competencies
 ![SecOps](https://img.shields.io/badge/SECURITY_OPERATIONS-ffffff?style=flat&logo=target&logoColor=black&labelColor=white&color=black) ![Wazuh](https://img.shields.io/badge/Wazuh-31a3d0?style=flat&logo=wazuh&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-7DB333?style=flat&logo=splunk&logoColor=white) ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat&logo=elasticstack&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-00244D?style=flat&logo=tenable&logoColor=white) ![theHive](https://img.shields.io/badge/theHive-FFBB11?style=flat&logo=hive&logoColor=black) ![Shuffle SOAR](https://img.shields.io/badge/Shuffle_SOAR-24292e?style=flat&logo=shuffle&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=flat&logo=n8n&logoColor=white) ![OpenVAS](https://img.shields.io/badge/OpenVAS-65AD2F?style=flat&logo=openvas&logoColor=white) ![VirusTotal](https://img.shields.io/badge/VirusTotal-3949AB?style=flat&logo=virustotal&logoColor=white) <br>
